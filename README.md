@@ -34,8 +34,5 @@ Alert → Evidence → Timeline → Analysis → Findings → Actions → Conclu
 
 The complete project documentation is available in the PDF:
 
-**Wazuh-SOC-Monitoring-Incident-Investigation.pdf**
+**Wazuh-SOC-Monitoring.pdf**
 
-## Disclaimer
-
-This project was performed in an isolated virtual lab environment for educational and cybersecurity learning purposes. The EICAR test file was used only as a safe antivirus detection test; no real malware was used.
